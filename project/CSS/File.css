@@ -1,21 +1,51 @@
 body { 
     background-color:slategrey;
+	color:whitesmoke;
+	font: normal oblique 18px Arial ;
+	width: 70%;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 15%;
+	margin-right: 15%;
 }
 
-body {
-  font-size: 18px;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
-body{ 
-    color:whitesmoke;
+img.main {
+	width: 25%;
+	height: 25%;
 }
 
-body{
-    text-align: center ;
+.name{
+	text-align: center;
 }
 
-body{
-     font: normal oblique 18px Arial ;
+ table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
+table {
+	width: 70%;
+	margin: 15%;
+	margin-top: 6%;
+	
+}
 
+th {
+	text-align: center;
+	font-weight: bold;
+}
+
+td{
+	font-size: 14px;
+	padding: 2%;
+}
+
+a {
+}
