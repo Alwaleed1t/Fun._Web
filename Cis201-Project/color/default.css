@@ -1,0 +1,43 @@
+a, a:hover {
+  color:black;
+}
+
+
+/* Back to top button */
+.back-to-top {
+  background: black;
+  color: wheat;
+}
+
+
+.back-to-top:focus {
+  background: black;
+  color: wheat;
+}
+
+.back-to-top:hover {
+  background: black;
+  color: wheat;
+}
+
+.navbar-default {
+  background: black;
+}
+
+.form-control:focus {
+  border-color: black;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px black;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px black;
+}
+
+.service .carousel-indicators .active {
+  background: black;
+}
+
+.btn-theme {
+  background: black;
+}
+
+.contact-widget i {
+  color: black;
+}
